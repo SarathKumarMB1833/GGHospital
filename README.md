@@ -10,7 +10,9 @@ The page has the following contents included:
 Navigation Bar
 
 Book Appointment
+
 Doctors Listed
+
 Departments Listed
 Why GG is better section
 Facilities and Activities
