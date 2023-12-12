@@ -14,11 +14,17 @@ Book Appointment
 Doctors Listed
 
 Departments Listed
+
 Why GG is better section
+
 Facilities and Activities
+
 You May Be Interested In section
+
 Footer
+
 Newsletter
+
 
 Screenshots
 
